@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-       <h1>merge conflict</h1>
+       <h1>merge conflicts</h1>
     </div>
   );
 }
